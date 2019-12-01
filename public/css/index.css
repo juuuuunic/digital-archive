@@ -284,7 +284,7 @@
     .timeline-wrapper .timeline_tit > .more_btn .inner > p {margin-top: 0; border: 0;}
     .timeline-wrapper > .line_btn {top: 110px; left: 50%; transform: translateX(-50%);}
     .timeline-wrapper > .timeline {height: 330px;}
-    .timeline > .line-obj .line-wrapper {padding: 0 20px;}
+    .timeline > .line-obj .line-wrapper {padding: 20px;}
     .timeline > .line-obj .line-wrapper:before {top: 15px;}
 }
 
@@ -292,5 +292,5 @@
     .count-wrapper > li {width: 30%; padding-left: 25px;}
 }
 @media screen and (max-width: 410px) {
-    .count-wrapper > li {width: 47%; padding-left: 20px;}
+    .count-wrapper > li {width: 47%; padding-left: 20px; margin-bottom: 0;}
 }

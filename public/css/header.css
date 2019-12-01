@@ -79,3 +79,10 @@
     #header h1.logo a {width: 137px; background-position: 0 0;}
    
 }
+
+@media (max-width: 410px) {
+    .gnb .top_nav > li.on > a {font-size: 14px;}
+    .gnb .top_nav > li > ul > li {padding: 0;}
+    .gnb .top_nav > li > ul > li.mo_nav {font-size: 14px;}
+    .gnb .top_nav > li > ul > li > a {font-size: 12px;}
+}
