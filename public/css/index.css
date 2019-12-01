@@ -99,7 +99,7 @@
     .family_site {margin-top: 0;}
 }
 @media screen and (max-width: 410px) {
-    .shortCut > div {float: none; width: 100%; border-top: 1px solid #5d5d5d; border-right: 0; border-bottom: 0;}
+    .shortCut > div {float: none; width: 100%; border-top: 1px solid #5d5d5d; border-right: 0; border-bottom: 0; margin-bottom: 0;}
     .shortCut > div:nth-child(2) {border-top: 1px solid #5d5d5d;}
     .shortCut > div:nth-child(3) {margin: 0;}
 }
